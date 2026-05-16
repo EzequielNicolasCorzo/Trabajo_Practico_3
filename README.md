@@ -1,4 +1,4 @@
-TP2: Sistema de Cajero Automatico 
+TP3: Plataforma de Streaming (API REST)
 
 Integrantes:
 
